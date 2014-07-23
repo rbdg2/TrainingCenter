@@ -13,3 +13,10 @@ color: red;
 background: black;
 padding: 2px;
 }
+img
+{
+border-style: dotted;
+border-width: 10px;
+border-color: black;
+margin: 0 auto;
+}
