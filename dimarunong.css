@@ -1,0 +1,26 @@
+#container{
+width: 80%;
+margin:0 auto;
+}
+#header{
+width:90%
+background: red:
+margin: 0 auto;
+}
+#content{
+width:90%;
+background: #f00000;
+margin: 0 auto;
+}
+font{
+color: red;
+background: black;
+padding: 2px;
+}
+img
+{
+border-style: dotted;
+border-width: 10px;
+border-color: black;
+margin: 0 auto;
+}
