@@ -4,6 +4,9 @@
 		<title>The Wowie Website</title>
 	</head>
 	<body>
+		<script>
+		alert("ang pogi ni Wowie Siyeyt!");
+		</script>
 		<div id="container">
 		<div id="header">
 		zz		
